@@ -3,21 +3,19 @@
 
 Bu depo, **i2i Systems Staj Programı** kapsamında gerçekleştirilen PL/SQL ödevi olan **PLSQL01-EX-08** egzersizini içermektedir. Bu çalışma, SQL dilinde string işlemleri, döngüler ve koşullu ifadeleri uygulamak amacıyla hazırlanmıştır.
 
-## 📌 Ödev Başlığı: PLSQL01-EX-08
-
-### 🔍 Tanım
+###  Tanım
 
 Girilen bir karakter dizisini XML formatında yazdıran bir **PL/SQL programı** yazılması istenmiştir.
 
 ---
 
-### 🧾 Girdi Kuralları
+###  Girdi Kuralları
 
 - 🔡 Örnek girişler:
   - `acbbcadefghkkhgfed`
   - `abbcddfggfca`
 
-### 📜 Kurallar
+###  Kurallar
 
 - 🔢 Maksimum karakter uzunluğu: **30**
 - ❌ Girdide **aynı karakter birden fazla kez bulunamaz**
@@ -25,7 +23,7 @@ Girilen bir karakter dizisini XML formatında yazdıran bir **PL/SQL programı**
 
 ---
 
-### 🎯 Amaçlar
+###  Amaçlar
 
 - **PL/SQL string fonksiyonları** ile işlem yapabilmek
 - **Koşullu ifadeleri** (`IF`, `THEN`, `ELSE`) kullanabilmek
